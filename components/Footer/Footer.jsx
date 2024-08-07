@@ -86,8 +86,8 @@ const Footer = () => {
           <div className="follow-us" style={{ marginBottom: '3rem' }}>
             <h4>Follow Us</h4>
             <div className="social-icons">
-              <img src="/images/insta.svg" alt="Facebook" />
-              <img src="/images/linkedin.svg" alt="Instagram" />
+              <img src="/images/insta.svg" alt="instagram-icon" />
+              <img src="/images/linkedin.svg" alt="linkedin-icon" />
             </div>
           </div>
           <div className="follow-us">
